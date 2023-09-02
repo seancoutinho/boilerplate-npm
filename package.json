@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Sean Coutinho",
   "description": "First attempt at learning backend development with freecodecamp",
+  "keywords": ["freecodecamp", "nodejs", "learning"],
   "dependencies": {
     "express": "^4.14.0"
   },
