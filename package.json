@@ -1,5 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "Sean Coutinho",
+  "description": "First attempt at learning backend development with freecodecamp",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -10,6 +12,6 @@
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
-  },
-  "author": "Sean K Coutinho",
+  }
 }
+
