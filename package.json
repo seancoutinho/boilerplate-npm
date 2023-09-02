@@ -2,11 +2,15 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Sean Coutinho",
   "description": "First attempt at learning backend development with freecodecamp",
-  "keywords": ["freecodecamp", "nodejs", "learning"],
+  "keywords": [
+    "freecodecamp",
+    "nodejs",
+    "learning"
+  ],
   "license": "MIT",
   "version": "1.2.0",
   "dependencies": {
-    "package-name": "1.1.0",
+    "@freecodecamp/example": "1.1.0",
     "express": "^4.14.0"
   },
   "main": "server.js",
@@ -18,4 +22,3 @@
     "url": "https://idontknow/todo.git"
   }
 }
-
